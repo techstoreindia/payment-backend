@@ -41,7 +41,7 @@ app.post("/create-order", async (req, res) => {
 
 // 🟢 Test route
 app.get("/", (req, res) => {
-  res.send("Backend is running 🚀");
+  res.send("Backend is running 🚀v2");
 });
 
 // 🟢 Server start
